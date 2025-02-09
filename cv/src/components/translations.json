@@ -1,0 +1,84 @@
+{
+    "en": {
+        "about": {
+            "name": "Andriy Danchenko",
+            "title": "Engineer | Passionate Programmer",
+            "description": "Engineer, passionate about finding unconventional solutions both in the real world and in programming. I enjoy developing innovative approaches to solving complex problems. Programming is not only my job but also my favorite hobby.",
+            "additional": "I have experience in web development for non-commercial projects. I am quick to learn new technologies and programming languages. Open to learning and self-improvement, as well as solving complex tasks. I have experience working with various tools, which allows me to adapt to different project requirements and conditions. I easily find common ground with my team and contribute to the effective achievement of goals. I am interested in web development, as it is constantly evolving, especially in the direction of graphic design and animations. I enjoy creating interactive and visually attractive interfaces, where animation plays an important role in improving user experience."
+        },
+        "education": [
+            {
+                "period": "2005 - 2009",
+                "description": "Bachelor's degree in \"Automation, Computer Integrated Systems, and Robotics\", KhNADU, Kharkiv"
+            },
+            {
+                "period": "2009 - 2010",
+                "description": "Master's degree in \"Automation, Computer Integrated Systems, and Robotics\", KhNADU, Kharkiv"
+            }
+        ],
+        "work_experience": [
+            {
+                "period": "2010 - 2010",
+                "description": "Specialist in Electronic Systems. Qualification: \"Toyota Mechanic\". \"Toyota Ukraine\""
+            },
+            {
+                "period": "2010 - 2011",
+                "description": "Specialist in Mechatronic Systems Diagnostics. \"Magister\""
+            },
+            {
+                "period": "2011 - 2024",
+                "description": "Engineer-Electronicist. Automation Systems Setup Engineer at \"TSK\""
+            }
+        ],
+        "skills": [
+            {
+                "skill": "HTML / CSS, JavaScript, React.js, Node.js, UX/UI, ChatGPT, Analytical Skills, Continuous Learning, Time-management",
+                "description": "A wide range of skills in web development and problem-solving"
+            }
+        ],
+        "contacts": {
+            "email": "lidao2005@gmail.com"
+        }
+    },
+    "ua": {
+        "about": {
+            "name": "Андрій Данченко",
+            "title": "Інженер | Запалений програміст",
+            "description": "Інженер, захоплений пошуком нестандартних рішень як у реальному світі, так і в програмуванні. Мені подобається розробляти інноваційні підходи до вирішення складних завдань. Програмування для мене — це не лише робота, але й улюблене хобі.",
+            "additional": "Маю досвід роботи в веб-розробці в некомерційних проектах. Вмію швидко освоювати нові технології та мови програмування. Відкритий до навчання та саморозвитку, а також готовий до вирішення складних завдань. Маю досвід роботи з різними інструментами, що дозволяє адаптуватися до різних вимог і умов проектів. Легко знаходжу спільну мову з командою і сприяю ефективному досягненню поставлених цілей. Мене цікавить розробка в веб-технологіях, оскільки веб постійно розвивається, зокрема в напрямку графічного дизайну та анімацій. Я захоплююся можливістю створювати інтерактивні та візуально привабливі інтерфейси, де анімація відіграє важливу роль у покращенні користувацького досвіду."
+        },
+        "education": [
+            {
+                "period": "2005 - 2009",
+                "description": "Бакалавр за спеціальністю \"Автоматизація, комп'ютерні інтегровані системи та робототехніка\", ХНАДУ м. Харків"
+            },
+            {
+                "period": "2009 - 2010",
+                "description": "Магістр за спеціальністю \"Автоматизація, комп'ютерні інтегровані системи та робототехніка\", ХНАДУ м. Харків"
+            }
+        ],
+        "work_experience": [
+            {
+                "period": "2010 - 2010",
+                "description": "Спеціаліст електронних систем. Кваліфікація: \"Механік TOYOTA\". \"Toyota Україна\""
+            },
+            {
+                "period": "2010 - 2011",
+                "description": "Спеціаліст з діагностики мехатронних систем. \"Магістр\""
+            },
+            {
+                "period": "2011 - 2024",
+                "description": "Інженер-електронщик. Налагоджувальник АСК ТП. \"ТСК\""
+            }
+        ],
+        "skills": [
+            {
+                "skill": "HTML / CSS, JavaScript, React.js, Node.js, UX/UI, ChatGPT, Аналітичні навички, Безперервне навчання, Time-management",
+                "description": "Широкий спектр навичок у веб-розробці та вирішенні проблем"
+            }
+        ],
+        "contacts": {
+            "email": "lidao2005@gmail.com"
+        }
+    }
+}
