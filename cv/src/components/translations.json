@@ -2,9 +2,9 @@
     "en": {
         "about": {
             "name": "Andriy Danchenko",
-            "title": "Engineer | Passionate Programmer",
-            "description": "Engineer, passionate about finding unconventional solutions both in the real world and in programming. I enjoy developing innovative approaches to solving complex problems. Programming is not only my job but also my favorite hobby.",
-            "additional": "I have experience in web development for non-commercial projects. I am quick to learn new technologies and programming languages. Open to learning and self-improvement, as well as solving complex tasks. I have experience working with various tools, which allows me to adapt to different project requirements and conditions. I easily find common ground with my team and contribute to the effective achievement of goals. I am interested in web development, as it is constantly evolving, especially in the direction of graphic design and animations. I enjoy creating interactive and visually attractive interfaces, where animation plays an important role in improving user experience."
+            "title": "Engineer | Electronics Specialist",
+            "description": "Engineer with a strong focus on electronics and automation systems. Passionate about finding efficient solutions to complex technical challenges in both real-world systems and programming. I enjoy optimizing and automating processes to improve system performance and reliability. Engineering is both my profession and passion.",
+            "additional": "I have experience in the design and maintenance of automation systems, as well as troubleshooting and optimizing electronic systems. I am quick to learn new technologies and tools, and I am open to continuous development and tackling challenging technical problems. I have worked with a variety of instruments and equipment, which helps me adapt to different project requirements. I easily integrate into teams and contribute to effective problem-solving and goal achievement."
         },
         "education": [
             {
@@ -32,8 +32,8 @@
         ],
         "skills": [
             {
-                "skill": "HTML / CSS, JavaScript, React.js, Node.js, UX/UI, ChatGPT, Analytical Skills, Continuous Learning, Time-management",
-                "description": "A wide range of skills in web development and problem-solving"
+                "skill": "HTML / CSS, JavaScript, React.js, Node.js, UX/UI, Automation Systems, Electronic Troubleshooting, CAD Software, Analytical Skills, Continuous Learning, Time-management",
+                "description": "A wide range of skills in electronics, automation, web development, and problem-solving"
             }
         ],
         "contacts": {
@@ -43,9 +43,9 @@
     "ua": {
         "about": {
             "name": "Андрій Данченко",
-            "title": "Інженер | Запалений програміст",
-            "description": "Інженер, захоплений пошуком нестандартних рішень як у реальному світі, так і в програмуванні. Мені подобається розробляти інноваційні підходи до вирішення складних завдань. Програмування для мене — це не лише робота, але й улюблене хобі.",
-            "additional": "Маю досвід роботи в веб-розробці в некомерційних проектах. Вмію швидко освоювати нові технології та мови програмування. Відкритий до навчання та саморозвитку, а також готовий до вирішення складних завдань. Маю досвід роботи з різними інструментами, що дозволяє адаптуватися до різних вимог і умов проектів. Легко знаходжу спільну мову з командою і сприяю ефективному досягненню поставлених цілей. Мене цікавить розробка в веб-технологіях, оскільки веб постійно розвивається, зокрема в напрямку графічного дизайну та анімацій. Я захоплююся можливістю створювати інтерактивні та візуально привабливі інтерфейси, де анімація відіграє важливу роль у покращенні користувацького досвіду."
+            "title": "Інженер | Спеціаліст з електроніки",
+            "description": "Інженер з фокусом на електронні та автоматизовані системи. Захоплений пошуком ефективних рішень складних технічних завдань як у реальних системах, так і в програмуванні. Мені подобається оптимізувати та автоматизувати процеси для покращення роботи систем та їх надійності. Інженерія для мене не лише професія, а й пристрасть.",
+            "additional": "Маю досвід в проектуванні та обслуговуванні автоматизованих систем, а також у діагностиці та оптимізації електронних систем. Швидко освоюю нові технології та інструменти, відкритий до постійного розвитку та вирішення складних технічних завдань. Працював з різними приладами та обладнанням, що допомагає адаптуватися до різних вимог проектів. Легко знаходжу спільну мову з командою та сприяю ефективному вирішенню проблем та досягненню цілей."
         },
         "education": [
             {
@@ -73,8 +73,8 @@
         ],
         "skills": [
             {
-                "skill": "HTML / CSS, JavaScript, React.js, Node.js, UX/UI, ChatGPT, Аналітичні навички, Безперервне навчання, Time-management",
-                "description": "Широкий спектр навичок у веб-розробці та вирішенні проблем"
+                "skill": "HTML / CSS, JavaScript, React.js, Node.js, UX/UI, Автоматизація систем, Діагностика електронних систем, CAD програмне забезпечення, Аналітичні навички, Безперервне навчання, Time-management",
+                "description": "Широкий спектр навичок в електроніці, автоматизації, веб-розробці та вирішенні технічних завдань"
             }
         ],
         "contacts": {
