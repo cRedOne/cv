@@ -17,8 +17,7 @@
 }
 
 
-/* Логотип */
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap'); /* Импортируем шрифт Roboto */
+/* Логотип */ /* Импортируем шрифт Roboto */
 
 .logo {
     font-size: 38px; /* Крупный текст */
